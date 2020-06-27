@@ -51,7 +51,7 @@ Language used.
 
  
 2.
-# Gettysburg Address in .txt format
+#Gettysburg Address in .txt format
 
 #Remove the stop words.
 
