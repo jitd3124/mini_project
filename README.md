@@ -1,8 +1,13 @@
 #Exp1
+
 1.loading nltk.
+
 2.downloading collection book
+
 3.exploring brown,inaugural corpus and webtext.
+
 4.frequency and conditional frequencey distribution.
+
 5.list to string conversion.
 
 #Exp2
@@ -24,7 +29,7 @@
 Language used.
 1.English 2.Bengali
 
-# finding frequency and conditional frequency distribution.
+#finding frequency and conditional frequency distribution.
 
 #Exp3
 
